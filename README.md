@@ -64,28 +64,8 @@ Retail-Sales-Analysis/
 │   ├── 03_product_quantity_analysis.sql
 │   ├── 04_trends_patterns.sql
 │
-├── reports/
-│   └── insights.md            # Final summarized insights
-│
 └── README.md                  # Project documentation
 ```
----
-
-## 📈 Key Insights (Example Outcomes)  
-*(Replace these with your actual results after running queries)*  
-
-- 💰 **Total Revenue:** $XXX  
-- 📅 **Highest Sales Month:** June 2024  
-- 🏆 **Top Product Category by Revenue:** Electronics  
-- 👥 **Unique Customers:** 1000  
-- 🧑‍🤝‍🧑 **Average Age by Category:** Fashion (26), Grocery (34), Electronics (29)  
-- 💳 **Top Customer Spending:** $1,200  
-- 👩 vs 👨 **Gender Spending:** Women spend slightly more on average per transaction  
-- 📦 **Most Purchased Category (Quantity):** Grocery  
-- 📊 **AOV (Average Order Value):** $45.23  
-- 🔄 **Monthly Sales Trend:** Steady growth from Jan → Dec  
-- 👶 vs 👴 **Age & Spending:** Older customers spend more per order, but younger customers shop more frequently  
-- 🏷 **Category Preferences:** Younger → Fashion, Older → Electronics  
 
 ---
 

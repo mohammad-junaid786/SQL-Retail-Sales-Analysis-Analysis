@@ -56,7 +56,7 @@ The goal of this project is to **practice SQL for real-world analytics** by answ
 Retail-Sales-Analysis/
 │
 ├── dataset/
-│   └── retail_sales.csv       # Sample dataset (if shareable)
+│   └── retail_sales.csv       
 │
 ├── scripts/
 │   ├── 01_sales_performance.sql

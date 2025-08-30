@@ -64,6 +64,9 @@ Retail-Sales-Analysis/
 │   ├── 03_product_quantity_analysis.sql
 │   ├── 04_trends_patterns.sql
 │
+├── reports/
+│ └── insights.md # Final summarized insights
+|
 └── README.md                  # Project documentation
 ```
 

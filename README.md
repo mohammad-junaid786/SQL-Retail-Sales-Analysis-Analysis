@@ -52,6 +52,7 @@ The goal of this project is to **practice SQL for real-world analytics** by answ
 ---
 
 ## 📂 Repository Structure 
+```
 Retail-Sales-Analysis/
 │
 ├── dataset/
@@ -67,7 +68,7 @@ Retail-Sales-Analysis/
 │   └── insights.md            # Final summarized insights
 │
 └── README.md                  # Project documentation
-
+```
 ---
 
 ## 📈 Key Insights (Example Outcomes)  
